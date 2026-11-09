@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "details": [{
+      "appIDs": ["4JLZS37N8V.com.cristian.OutAgain"],
+      "components": [
+        {"/": "/invite/", "comment": "Open a shared Out Again invitation."},
+        {"/": "/invite", "comment": "Accept invite links without a trailing slash."}
+      ]
+    }]
+  }
+}
